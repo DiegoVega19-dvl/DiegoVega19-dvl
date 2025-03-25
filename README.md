@@ -13,3 +13,7 @@
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails)](https://skillicons.dev)
+
+<hr>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
