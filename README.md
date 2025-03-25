@@ -9,3 +9,5 @@
 <h3>Tech Stack: </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+
+<hr>
