@@ -10,4 +10,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
-<hr>
+<hr style="width: 80%; border: 2px solid black; margin: 20px auto;">
