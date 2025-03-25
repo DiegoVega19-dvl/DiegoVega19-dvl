@@ -16,4 +16,4 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)
