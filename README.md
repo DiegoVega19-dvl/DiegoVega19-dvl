@@ -12,7 +12,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
 
 <hr>
 
