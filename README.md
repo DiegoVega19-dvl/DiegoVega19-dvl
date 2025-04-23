@@ -2,7 +2,7 @@
 
 <h3>Hola :) soy Diego, me apasiona la tecnologia y la programacion </h3> 
 <h3>Actualmente me dedico a estudiar tecnologias para el desarrollo backend con Spring ☕ </h3>
-<h3>... y a veces con rails</h3> 
+<h3>... y a veces con laravel por practicas de la escuela.</h3> 
 
 
 
