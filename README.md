@@ -8,7 +8,7 @@
 
 <h3>Tech Stack: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql)](https://skillicons.dev)
 
 <hr>
 
