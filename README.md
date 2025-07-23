@@ -2,7 +2,7 @@
 
 <h3>Hola :) soy Diego, me apasiona la tecnologia y la programacion </h3> 
 <h3>Actualmente me dedico a estudiar tecnologias para backend con java y springboot</h3>
-<h3>... y a veces con laravel y Vue por practicas de la escuela.</h3> 
+<h3>... y a veces con laravel y php por practicas de la escuela.</h3> 
 
 
 
@@ -16,7 +16,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular)](https://skillicons.dev)
 
 <hr>
 
