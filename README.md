@@ -2,7 +2,7 @@
 
 <h3>Hola :) soy Diego, me apasiona la tecnologia y la programacion </h3> 
 <h3>Actualmente me dedico a estudiar tecnologias para backend y ciencia de datos con Python y Django</h3>
-<h3>... y a veces con laravel y php por practicas de la escuela.</h3> 
+<h3> y tambien un poco de java con springboot</h3> 
 
 
 
