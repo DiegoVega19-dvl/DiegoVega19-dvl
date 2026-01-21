@@ -7,15 +7,19 @@
 
 <h3>Tech Stack: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,postgresql,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev)
 
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+
+<hr>
+
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql)](https://skillicons.dev)
 
 <hr>
 
