@@ -11,7 +11,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c#,.net)](https://skillicons.dev)
 
 <hr>
 
