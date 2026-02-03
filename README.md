@@ -23,4 +23,4 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
