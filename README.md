@@ -9,7 +9,7 @@
 
 <h4>Backend: </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
