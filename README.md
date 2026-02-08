@@ -7,7 +7,7 @@
 
 <h3>Tech Stack: </h3>
 
-<h2>Backend: </h2>
+<h4>Backend: </h4>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,deno)](https://skillicons.dev)
 
@@ -15,7 +15,8 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
 
 <hr>
-<h2>Frontend: </h2>
+
+<h4>Frontend: </h4>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)
 
