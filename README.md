@@ -7,7 +7,7 @@
 
 <h3>Tech Stack: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,deno)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,deno)](https://skillicons.dev)
 
 <hr>
 
