@@ -24,7 +24,7 @@
 
 <h4>BDD: </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongo)](https://skillicons.dev)
 
 <hr>
 
