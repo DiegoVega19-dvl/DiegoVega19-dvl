@@ -22,8 +22,12 @@
 
 <hr>
 
+<h4>BDD: </h4>
+
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql)](https://skillicons.dev)
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+<h4>Herramientas: </h4>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,trello)](https://skillicons.dev)
