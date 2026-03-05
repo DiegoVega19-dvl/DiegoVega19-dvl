@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nest)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
 
 <hr>
 
