@@ -10,7 +10,7 @@
 
 <h4>Backend: </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nest)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
