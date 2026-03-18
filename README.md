@@ -4,7 +4,7 @@
 <i>Actualmente me dedico a estudiar tecnologias para el area de desarrollo backend</i>
 <i>con java y php</i>
 <br>
-<h3>Tech Stack: </h3>
+<h4>Tech Stack: </h4>
 
 <h4>Backend: </h4>
 
